@@ -3,3 +3,4 @@ uvicorn
 pytesseract
 pillow
 pandas
+python-multipart
